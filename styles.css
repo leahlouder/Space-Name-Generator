@@ -38,4 +38,12 @@ button
   border-radius: 0.5rem;
   font-weight: bold;
   text-transform: uppercase;
+  background-color: #efefef;
+  color: #333;
+  cursor: pointer;
+}
+
+button:active
+{
+  background-color: white;
 }
